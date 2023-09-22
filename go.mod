@@ -1,0 +1,3 @@
+module HTML_TEMPLETES
+
+go 1.19
